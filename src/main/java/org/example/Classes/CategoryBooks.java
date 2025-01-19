@@ -1,0 +1,33 @@
+package org.example.Classes;
+
+public enum CategoryBooks {
+    SCIENCE_FICTION,
+    DRAMA,
+    ACTION_AND_ADVENTURE,
+    ROMANCE,
+    MYSTERY,
+    HORROR,
+    SELF_HELP,
+    GUIDE,
+    TRAVEL,
+    CHILDREN,
+    RELIGION,
+    SPIRITUALITY,
+    SCIENCE,
+    HISTORY,
+    MATH,
+    ANTHOLOGY,
+    POETRY,
+    ENCYCLOPEDIAS,
+    DICTIONARIES,
+    COMICS,
+    ART,
+    COOKBOOKS,
+    DIARIES,
+    JOURNALS,
+    SERIES,
+    TRILOGY,
+    BIOGRAPHIES,
+    AUTOBIOGRAPHIES,
+    FANTASY
+}
